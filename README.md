@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CriptFLO
+- 👀 I’m interested in NFT and crypto
+- 🌱 I’m currently learning blockchain development
+- 💞️ I’m looking to collaborate on NFT projects
+- 📫 How to reach me: https://twitter.com/cryptFLO1
