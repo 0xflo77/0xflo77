@@ -2,4 +2,4 @@
 - 👀 I’m interested in NFT and crypto
 - 🌱 I’m currently learning blockchain development
 - 💞️ I’m looking to collaborate on NFT projects
-- 📫 How to reach me: [https://twitter.com/0x77Flo]
+- 📫 How to reach me: https://twitter.com/0x77Flo
