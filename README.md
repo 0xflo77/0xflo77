@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 0x.Flo
-- 👀 I’m interested in NFT and crypto
-- 🌱 I’m currently learning blockchain development
-- 💞️ I’m looking to collaborate on NFT projects
+- 👀 I’m interested in NFT
+- 🌱 I’m currently learning Solidity development
+- 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me: https://twitter.com/0x77Flo
